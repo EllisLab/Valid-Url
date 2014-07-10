@@ -8,6 +8,7 @@ other characters are properly URL encoded.
 Produces:
     http://www.example.com/foo+bar/bat?=bag&amp;mice=men%21
 
-Version 1.1
-******************
-- Updated plugin to be 2.0 compatible
+## Change Log
+
+- Version 1.1
+    - Updated plugin to be 2.0 compatible
