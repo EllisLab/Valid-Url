@@ -125,7 +125,7 @@ class Valid_url {
 	 * @access	public
 	 * @return	string
 	 */
-	function usage()
+	public static function usage()
 	{
 		return <<<ONESY
 		Makes sure that a URL has a protocol, that ampersands are converted to entities, and all
